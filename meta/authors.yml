@@ -1,6 +1,14 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: p-godoy
+    name: Pablo Godoy
+    introduction: >
+      I'm a web developer with experiencie in MERN stack & UI/UX. I'm from
+      Buenos Aires, doing QA in Productive Development Ministery of Buenos Aires
+      Goverment. I'm passionate about what I do and what I can achieve.
+
+
+      I belive that my most important skill its the continous desire of keep learning all the time.
