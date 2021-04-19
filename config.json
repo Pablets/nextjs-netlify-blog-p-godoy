@@ -3,15 +3,9 @@
   "site_title": "Pablo Godoy's Blog",
   "site_description": "My portfolio",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Developer",
+    "Fullstack",
+    "Pablo Godoy"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
