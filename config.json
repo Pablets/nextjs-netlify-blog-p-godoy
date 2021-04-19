@@ -1,13 +1,19 @@
 {
-  "base_url": "https://p-godoy.netlify.app",
-  "site_title": "Pablo Godoy's Blog",
-  "site_description": "My portfolio",
+  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "site_title": "Next.js Netlify Blog",
+  "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
-    "Developer",
-    "Fullstack",
-    "Pablo-Godoy"
+    {
+      "keyword": "Next.js"
+    },
+    {
+      "keyword": "Netlify"
+    },
+    {
+      "keyword": "React"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "https://github.com/Pablets"
+  "github_account": "wutali"
 }
